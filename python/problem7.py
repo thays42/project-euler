@@ -32,7 +32,7 @@ def main():
     What is the 10 001st prime number?
     '''
     for i, p in enumerate(x for x in two_and_odds() if is_prime(x)):
-        if i == 10_000:
+        if i == 10000:
             return p
 
 if __name__ == '__main__':

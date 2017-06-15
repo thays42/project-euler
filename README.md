@@ -1,2 +1,2 @@
 # project-euler
-Solutions to Project Euler problems
+Project Euler is a collection of mathematically themed problems that encourage programmatic solutions. Some are trivially easy. Others are painstakingly difficult. The goal of this repository and associated blog is to explore the mathematics and programming involved in Project Euler problems, one at a time. This repository contains solutions I have worked out myself, which is what I would encourage those who have stumpled upon this to do. On the same note, these are my solutions, some of which I believe could be improved with some effort, research, or deeper understanding of the language used in the solution. If you have suggestions

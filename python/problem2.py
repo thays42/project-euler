@@ -1,4 +1,4 @@
-from math import sqrt, floor
+from math import sqrt
 
 def fibonacci(n):
     '''
@@ -6,7 +6,7 @@ def fibonacci(n):
     https://en.wikipedia.org/wiki/Fibonacci_number#Closed-form_expression
     '''
     phi = (1 + sqrt(5)) / 2
-    return floor(phi ** n / sqrt(5) + 0.5)
+    return round(phi ** n / sqrt(5))
 
 
 def main():

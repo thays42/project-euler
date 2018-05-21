@@ -2,4 +2,6 @@
 *.txt
 *.sublime*
 .Rproj.user/
+helpers/
+inputs/
 .DS_Store
